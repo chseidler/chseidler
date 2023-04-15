@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chseidler
 - 👀 I’m interested in do the difficult stuff, so people can use in a easy way.
-- 🌱 I’m currently working with React, TypScript, C#, .NET.
+- 🌱 I’m currently working with React, TypeScript, C#, .NET.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

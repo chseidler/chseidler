@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Christian Seidler
-- 👀 I’m interested in do the difficult stuff, so people can use in a easy way.
 - 🌱 I’m currently working with React, TypeScript, C#, .NET.
 
 <!---
